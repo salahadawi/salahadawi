@@ -15,5 +15,5 @@ Hello! I am a programming student at [Hive Helsinki](https://www.hive.fi/en/), a
 &nbsp;&nbsp;&nbsp;&nbsp;🍏 Eating healthy<br />
 &nbsp;&nbsp;&nbsp;&nbsp;📖 Learning new things<br />
 
-## 📅 I am looking for...
+## 📅 I am looking for
 &nbsp;&nbsp;&nbsp;&nbsp;🏢 Internship opportunities. Feel free to [contact me](https://www.linkedin.com/in/salah-adawi/) through Linkedin to discuss! 
