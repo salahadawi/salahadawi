@@ -3,7 +3,7 @@ Hello! I am a programming student at Hive Helsinki, and i also code stuff in my 
 
 ## 💡 My experience
 &nbsp;&nbsp;&nbsp;&nbsp;📃 Html, CSS, Javascript, PHP<br />
-&nbsp;&nbsp;&nbsp;&nbsp;🇨 C<br />
+&nbsp;&nbsp;&nbsp;🇨 C<br />
 &nbsp;&nbsp;&nbsp;&nbsp;🐍 Python<br />
 
 ## ⏳ Things i'm currently learning
