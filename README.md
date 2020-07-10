@@ -2,18 +2,18 @@
 Hello! I am a programming student at Hive Helsinki, and i also code stuff in my free time.
 
 ## 💡 My experience
-📃 Html, CSS, Javascript, PHP<br />
-🇨 C<br />
-🐍 Python<br />
+&nbsp;&nbsp;&nbsp;&nbsp;📃 Html, CSS, Javascript, PHP<br />
+&nbsp;&nbsp;&nbsp;&nbsp;🇨 C<br />
+&nbsp;&nbsp;&nbsp;&nbsp;🐍 Python<br />
 
 ## ⏳ Things i'm currently learning
-🖥️ Machine learning, deep learning, genetic algorithms<br />
-📊 Data science<br />
+&nbsp;&nbsp;&nbsp;&nbsp;🖥️ Machine learning, deep learning, genetic algorithms<br />
+&nbsp;&nbsp;&nbsp;&nbsp;📊 Data science<br />
 
 ## 🏓 My hobbies
-🏋️ Working out<br />
-🍏 Eating healthy<br />
-📖 Learning new things
+&nbsp;&nbsp;&nbsp;&nbsp;🏋️ Working out<br />
+&nbsp;&nbsp;&nbsp;&nbsp;🍏 Eating healthy<br />
+&nbsp;&nbsp;&nbsp;&nbsp;📖 Learning new things<br />
 
 ## 📅 I am looking for...
-🏢 Internship opportunities. Feel free to [contact me](https://www.linkedin.com/in/salah-adawi/) through Linkedin to discuss! 
+&nbsp;&nbsp;&nbsp;&nbsp;🏢 Internship opportunities. Feel free to [contact me](https://www.linkedin.com/in/salah-adawi/) through Linkedin to discuss! 
