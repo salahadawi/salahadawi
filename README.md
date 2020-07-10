@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align=center>Salah Adawi - salahadawi</h1>
+Hello! I am a programming student at Hive Helsinki, and i also code stuff in my free time.
 
-<!--
-**salahadawi/salahadawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My experience
+* Html, CSS, Javascript, PHP
+* C
+* Python
+* Machine learning, deep learning, genetic algorithms
+* Data science
 
-Here are some ideas to get you started:
+## My hobbies
+🏋️ Working out<br />
+🍏 Eating healthy<br />
+📖 Learning new things
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I am looking for...
+* Internship opportunities. Feel free to [contact me](https://www.linkedin.com/in/salah-adawi/) through Linkedin to discuss! 
