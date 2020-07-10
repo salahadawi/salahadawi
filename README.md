@@ -5,6 +5,8 @@ Hello! I am a programming student at Hive Helsinki, and i also code stuff in my 
 * Html, CSS, Javascript, PHP
 * C
 * Python
+
+## ⏳ Things i'm currently learning
 * Machine learning, deep learning, genetic algorithms
 * Data science
 
