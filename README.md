@@ -1,4 +1,4 @@
-<h1 align=center>Salah Adawi - salahadawi</h1>
+# Salah Adawi - salahadawi
 Hello! I am a programming student at Hive Helsinki, and i also code stuff in my free time.
 
 ## My experience
