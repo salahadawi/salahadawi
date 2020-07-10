@@ -1,5 +1,5 @@
 # Salah Adawi - salahadawi
-Hello! I am a programming student at Hive Helsinki, and i also code stuff in my free time.
+Hello! I am a programming student at [Hive Helsinki](https://www.hive.fi/en/), and i also code stuff in my free time.
 
 ## 💡 My experience
 &nbsp;&nbsp;&nbsp;&nbsp;📃 Html, CSS, Javascript, PHP<br />
