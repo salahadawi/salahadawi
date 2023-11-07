@@ -51,6 +51,7 @@ Developed blockchain-integrated websites, merging modern web technologies with t
 If you'd like to discuss technology, potential collaborations, or just have a chat, please feel free to get in touch!
 
 📫 Reach out: salah.adawi@outlook.com
+
 🔗 LinkedIn: https://www.linkedin.com/in/salah-adawi/
 
 Thank you for exploring my profile. I'm excited about the possibility of connecting and potentially collaborating with you in the future!
